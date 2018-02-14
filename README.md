@@ -3,8 +3,7 @@
 A Java application that helps sort your Desktop or any other specified directory.
 
 
-Author: Taslim Oseni
-==========================================================================
+### Author: Taslim Oseni
 
 
 ### About:
