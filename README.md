@@ -1,4 +1,4 @@
-# Bash (Desktop Sorter)
+# Desktop Sorter
 
 A Java application that helps sort your Desktop or any other specified directory.
 
